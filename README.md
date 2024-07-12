@@ -13,5 +13,8 @@
 - Do you have any additions, modifications, or other suggestions for the store information?
 - Please visit the [GitHub Issues](https://github.com/diligencefrozen/applepay-southkorea-DataAnalysis/issues) page to leave your feedback.
 
+## Refer to
+This project is inspired by <a href="https://www.hyundaicard.com/cpu/ug/CPUUG4001_02.hc?tabindex=1">Apple Pay 공식 참여 브랜드-현대카드</a>.<br/>
+
 ## Screnshots
 
